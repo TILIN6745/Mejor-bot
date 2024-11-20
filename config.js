@@ -15,26 +15,26 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5214461281232', 'KeroppiBot', true],
-  ['5212227787014', 'Colaborador', true],
-  ['5212227787014', 'AntonyxT', true],
+  ['5215645239170', 'Colaborador', true],
+  ['5215645239170', 'AntonyxT', true],
 ];
 
-global.suittag = ['5212227787014'];
-global.prems = ['5212227787014'];
+global.suittag = ['5215645239170'];
+global.prems = ['5215645239170'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.author = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.wm = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
+global.packname = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.author = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.wm = '𝙃𝘼𝙍𝙇𝙀𝙔';
 global.idioma = 'es';
-global.ig = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.etiqueta = 'ACTIVENSE 𝙈𝙀𝙇𝘼𝙉𝙄𝙀 BOT LES HABLA';
+global.ig = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.etiqueta = 'ACTIVENSE 𝙃𝘼𝙍𝙇𝙀𝙔 BOT LES HABLA';
 global.emojietiqueta = '👑';
-global.titulowm = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.titulowm2 = `𝙈𝙀𝙇𝘼𝙉𝙄𝙀`
-global.igfg = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
+global.titulowm = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.titulowm2 = `𝙃𝘼𝙍𝙇𝙀𝙔`
+global.igfg = '𝙃𝘼𝙍𝙇𝙀𝙔';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,9 +54,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙈𝙀𝙇𝘼𝙉𝙄𝙀`;
-global.gt = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
-global.mysticbot = '𝙈𝙀𝙇𝘼𝙉𝙄𝙀';
+global.wm2 = `${dia} ${fecha}\n𝙃𝘼𝙍𝙇𝙀𝙔`;
+global.gt = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.mysticbot = '𝙃𝘼𝙍𝙇𝙀𝙔';
 global.channel = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
 global.md = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
 global.mysticbot = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
