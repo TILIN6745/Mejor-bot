@@ -28,7 +28,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `𝙃𝘼𝙍𝙇𝙀𝙔 𝐁𝐎𝐓
+    const str = `𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏
     
     ${tradutor.texto1[1]}, ${taguser}*
 
