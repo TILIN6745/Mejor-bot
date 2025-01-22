@@ -33,7 +33,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `*¡HOLA! ${taguser}* 
-*BIENVENIDO AL MENU DE 𝙃𝘼𝙍𝙇𝙀𝙔*
+*BIENVENIDO AL MENU DE 𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏*
 
 *··················································*
 
@@ -45,7 +45,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *➺ EXPERIENCIA: ${exp} ⚡*
 *➺ROL: ${role} 🤠*
 *➺DIAMANTES: ${limit} 💎*
-*➺𝙃𝘼𝙍𝙇𝙀𝙔Coins: ${money} 🪙*
+*➺𝙏𝙐𝙈𝘽𝘼𝘿Coins: ${money} 🪙*
 *➺TOKENS: ${joincount} 💲*
 *➺PREMIUM:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 
