@@ -15,26 +15,26 @@ global.isBaileysFail = false
 
 global.owner = [
   ['5214461281232', 'KeroppiBot', true],
-  ['5215645239170', 'Colaborador', true],
-  ['5215645239170', 'AntonyxT', true],
+  ['5215541450348', 'Colaborador', true],
+  ['5215541450348', 'AntonyxT', true],
 ];
 
-global.suittag = ['5215645239170'];
-global.prems = ['5215645239170'];
+global.suittag = ['5215541450348'];
+global.prems = ['5215541450348'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.author = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.wm = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.packname = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.author = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.wm = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
 global.idioma = 'es';
-global.ig = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.etiqueta = 'ACTIVENSE 𝙃𝘼𝙍𝙇𝙀𝙔 BOT LES HABLA';
-global.emojietiqueta = '👑';
-global.titulowm = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.titulowm2 = `𝙃𝘼𝙍𝙇𝙀𝙔`
-global.igfg = '𝙃𝘼𝙍𝙇𝙀𝙔';
+global.ig = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.etiqueta = 'ACTIVENSE 𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏 LES HABLA';
+global.emojietiqueta = '⚜️';
+global.titulowm = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.titulowm2 = `𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏`
+global.igfg = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙃𝘼𝙍𝙇𝙀𝙔`;
-global.gt = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.mysticbot = '𝙃𝘼𝙍𝙇𝙀𝙔';
-global.channel = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.md = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
-global.mysticbot = 'https://chat.whatsapp.com/Dby9EryszuM2QmUBqJi7Wg';
+global.wm2 = `${dia} ${fecha}\n𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏`;
+global.gt = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.mysticbot = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.channel = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
+global.md = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
+global.mysticbot = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
