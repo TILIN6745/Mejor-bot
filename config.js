@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `MysticSession`;
+global.authFile = `sessions`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -14,27 +14,27 @@ global.authFile = `MysticSession`;
 global.isBaileysFail = false
 
 global.owner = [
-  ['5214461281232', 'KeroppiBot', true],
-  ['5215541450348', 'Colaborador', true],
-  ['5215541450348', 'AntonyxT', true],
+  ['5214461018899', 'KeroppiBot', true],
+  ['5214171800894', 'Colaborador', true],
+  ['5214171800894', 'AntonyxT', true],
 ];
 
-global.suittag = ['5215541450348'];
-global.prems = ['5215541450348'];
+global.suittag = ['5214171800894'];
+global.prems = ['5214171800894'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.author = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.wm = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.packname = 'ByLu Bot 🌷';
+global.author = 'ByLu Bot 🌷';
+global.wm = 'ByLu Bot 🌷';
 global.idioma = 'es';
-global.ig = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.etiqueta = 'ACTIVENSE 𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏 LES HABLA';
-global.emojietiqueta = '⚜️';
-global.titulowm = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.titulowm2 = `𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏`
-global.igfg = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
+global.ig = 'ByLu Bot 🌷';
+global.etiqueta = 'ACTIVENSE ByLu Bot 🌷 LES HABLA';
+global.emojietiqueta = '🌷';
+global.titulowm = 'ByLu Bot 🌷';
+global.titulowm2 = `ByLu Bot 🌷`
+global.igfg = 'ByLu Bot 🌷';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,16 +54,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏`;
-global.gt = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.mysticbot = '𝙏𝙐𝙈𝘽𝘼𝘿𝙊 𝘽𝙊𝙏';
-global.channel = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
-global.md = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
-global.mysticbot = 'https://chat.whatsapp.com/EtdZvxr9CVWDR8JfB4Btoc';
+global.wm2 = `${dia} ${fecha}\nByLu Bot 🌷`;
+global.gt = 'ByLu Bot 🌷';
+global.mysticbot = 'ByLu Bot 🌷';
+global.channel = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
+global.md = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
+global.mysticbot = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5214461281232';
+global.nomorown = '5214461018899';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
