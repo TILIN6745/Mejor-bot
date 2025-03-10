@@ -2,7 +2,7 @@ let handler = async (m, { isPrems, conn }) => {
 let time = global.db.data.users[m.sender].lastcofre + 0 // 36000000 10 Horas //86400000 24 Horas
 if (new Date - global.db.data.users[m.sender].lastcofre < 0) throw `[❗𝐈𝐍𝐅𝐎❗] 𝚈𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚂𝚃𝙴 𝚃𝚄 𝙲𝙾𝙵𝚁𝙴\𝚗𝚅𝚄𝙴𝙻𝚅𝙴 𝙴𝙽 *${msToTime(time - new Date())}* 𝙿𝙰𝚁𝙰 𝚅𝙾𝙻𝚅𝙴𝚁 𝙰 𝚁𝙴𝙲𝙻𝙰𝙼𝙰𝚁`
 
-let img = './storage/img/menu.png' 
+let img = './Menu2.jpg'
 let texto = `𝐆𝐮𝐢𝐚:
 
 𝘌𝘴𝘵𝘢 𝘨𝘶𝘪𝘢 𝘴𝘪𝘳𝘷𝘦 𝘱𝘢𝘳𝘢 𝘲𝘶𝘦 𝘦𝘯𝘵𝘪𝘦𝘯𝘥𝘢𝘯 𝘶𝘯 𝘱𝘰𝘲𝘶𝘪𝘵𝘰 𝘭𝘢𝘴 𝘧𝘶𝘯𝘤𝘪𝘰𝘯𝘦𝘴 𝘥𝘦𝘭 𝘣𝘰𝘵
