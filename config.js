@@ -25,16 +25,16 @@ global.prems = ['5214171800894'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'ByLu Bot 🌷';
-global.author = 'ByLu Bot 🌷';
-global.wm = 'ByLu Bot 🌷';
+global.packname = 'INTI BOT ⚡';
+global.author = 'INTI BOT ⚡';
+global.wm = 'INTI BOT ⚡';
 global.idioma = 'es';
-global.ig = 'ByLu Bot 🌷';
-global.etiqueta = 'ACTIVENSE ByLu Bot 🌷 LES HABLA';
-global.emojietiqueta = '🌷';
-global.titulowm = 'ByLu Bot 🌷';
-global.titulowm2 = `ByLu Bot 🌷`
-global.igfg = 'ByLu Bot 🌷';
+global.ig = 'INTI BOT ⚡';
+global.etiqueta = 'ACTIVENSE INTI Bot ⚡ LES HABLA';
+global.emojietiqueta = '⚡';
+global.titulowm = 'INTI BOT ⚡';
+global.titulowm2 = `INTI BOT ⚡`
+global.igfg = 'INTI BOT ⚡';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -54,12 +54,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nByLu Bot 🌷`;
-global.gt = 'ByLu Bot 🌷';
-global.mysticbot = 'ByLu Bot 🌷';
-global.channel = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
-global.md = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
-global.mysticbot = 'https://chat.whatsapp.com/Iepra3gUZ85Lu0jzM2CL02';
+global.wm2 = `${dia} ${fecha}\nINTI BOT ⚡`;
+global.gt = 'INTI BOT ⚡';
+global.mysticbot = 'INTI BOT ⚡';
+global.channel = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
+global.md = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
+global.mysticbot = 'https://chat.whatsapp.com/C1nqw6mdT9JIfvXZ6lSzKp';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
