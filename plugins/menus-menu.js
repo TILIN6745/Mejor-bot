@@ -33,7 +33,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `*¡HOLA! ${taguser}* 
-*BIENVENIDO AL MENU DE ByLu Bot 🌷*
+*BIENVENIDO AL MENU DE INTI BOT ⚡*
 
 *··················································*
 
@@ -45,7 +45,7 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
 *➺ EXPERIENCIA: ${exp} ⚡*
 *➺ROL: ${role} 🤠*
 *➺DIAMANTES: ${limit} 💎*
-*➺ByLu BotCoins: ${money} 🪙*
+*➺IntiCoins: ${money} 🪙*
 *➺TOKENS: ${joincount} 💲*
 *➺PREMIUM:* ${user.premiumTime > 0 ? '✅' : (isPrems ? '✅' : '❌') || ''}
 
