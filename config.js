@@ -25,9 +25,9 @@ global.prems = ['5214171800894'];
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
 
-global.packname = 'INTI BOT ⚡';
-global.author = 'INTI BOT ⚡';
-global.wm = 'INTI BOT ⚡';
+global.packname = 'MEJOR BOT';
+global.author = 'MEJOR BOT';
+global.wm = 'MEJOR BOT';
 global.idioma = 'es';
 global.ig = 'INTI BOT ⚡';
 global.etiqueta = 'ACTIVENSE INTI Bot ⚡ LES HABLA';
